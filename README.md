@@ -18,6 +18,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![VS Code](http://img.shields.io/badge/-Postgresql-007ACC?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
@@ -29,7 +30,7 @@
 
 
 
-##### Take a look on my repositories to know more abou my skills
+##### Take a look on my repositories to know more about my skills
 
 **You can find-me anywhere as a @jaribeiro32**
 <a target="_blank" href="https://www.linkedin.com/in/jaribeiro32/">
