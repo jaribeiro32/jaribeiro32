@@ -4,7 +4,7 @@
 
 - 👨‍💻 I’m currently working on technologies like Laravel, Vue, Flutter...
 - 📚 I’m currently learning everything as I can! 😅
-- 💪🏼 Future Goals: Alwayes improve.
+- 💪🏼 Future Goals: Always improve.
 - ⚡ Fun fact: I run to live.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaribeiro32&layout=compact)](#)
