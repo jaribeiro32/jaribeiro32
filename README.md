@@ -7,7 +7,7 @@
 - 💪🏼 Future Goals: Always improve.
 - ⚡ Fun fact: I run to live.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaribeiro32&layout=compact)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonnyribeiro&layout=compact)](#)
 
 ### Languages and Tools 🛠 
 
